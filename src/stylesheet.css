@@ -1,0 +1,29 @@
+.choice{
+    -fx-background-color: #ffef05;
+    -fx-background-radius: 20px;
+}
+
+.choice:hover{
+    -fx-background-color: #39ff00;
+}
+
+.wrapper{
+    -fx-background-color: white;
+}
+
+.computer{
+    -fx-background-color: #b16b8d;
+}
+
+.player{
+    -fx-background-color: #909bc8;
+}
+
+.textField{
+    -fx-focus-color: transparent;
+    -fx-background-color: lightgrey;
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-highlight-fill: null;
+    -fx-highlight-text-fill: null;
+}
